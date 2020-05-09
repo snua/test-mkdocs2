@@ -1,3 +1,6 @@
 site_name: SitePoint Documentation
 site_description: Description of the documentation
 theme: readthedocs
+nav:
+    - Home: index.md
+    - About: about.md
