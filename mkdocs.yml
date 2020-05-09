@@ -1,5 +1,3 @@
 site_name: SitePoint Documentation
 site_description: Description of the documentation
 theme: readthedocs
-pages:
-- ['index.md', 'Index']
